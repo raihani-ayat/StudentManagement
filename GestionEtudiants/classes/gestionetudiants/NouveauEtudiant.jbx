@@ -1,0 +1,33 @@
+[PropertyInfo]
+annee,JComboBox,false,false, , ,false,<default>
+annuler,JButton,false,false, , ,false,<default>
+ce,JTextField,false,false, , ,false,<default>
+ce_lb,JLabel,false,false, , ,false,<default>
+centre_pn,JPanel,false,false, , ,false,<default>
+dn_lb,JLabel,false,false, , ,false,<default>
+F,JFrame,false,false, , ,false,<default>
+feminin,JRadioButton,false,false, , ,false,<default>
+filiere,JComboBox,false,false, , ,false,<default>
+filiere_lb,JLabel,false,false, , ,false,<default>
+jour,JComboBox,false,false, , ,false,<default>
+masculin,JRadioButton,false,false, , ,false,<default>
+mois,JComboBox,false,false, , ,false,<default>
+niveau,JComboBox,false,false, , ,false,<default>
+niveau_lb,JLabel,false,false, , ,false,<default>
+nom,JTextField,false,false, , ,false,<default>
+nom_lb,JLabel,false,false, , ,false,<default>
+nord_pn,JPanel,false,false, , ,false,<default>
+ok,JButton,false,false, , ,false,<default>
+prenom,JTextField,false,false, , ,false,<default>
+prenom_lb,JLabel,false,false, , ,false,<default>
+sexe,ButtonGroup,false,false, , ,false,<default>
+sexe_lb,JLabel,false,false, , ,false,<default>
+situation,JComboBox,false,false, , ,false,<default>
+situation_lb,JLabel,false,false, , ,false,<default>
+sud_pn,JPanel,false,false, , ,false,<default>
+titre,JLabel,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

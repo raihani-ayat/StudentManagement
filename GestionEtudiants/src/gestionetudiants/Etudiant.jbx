@@ -1,0 +1,12 @@
+[PropertyInfo]
+dn,Date,false,false, , ,false,<default>
+filiere,Filiere,false,false, , ,true,<default>
+idEtud,int,false,false, , ,true,<default>
+nom,String,false,false, , ,false,<default>
+prenom,String,false,false, , ,false,<default>
+sexe,String,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

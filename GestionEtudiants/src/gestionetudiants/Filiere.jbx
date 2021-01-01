@@ -1,0 +1,9 @@
+[PropertyInfo]
+listMatieres,Vector,false,false, , ,false,<default>
+niveau,int,false,false, , ,false,<default>
+nom,String,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

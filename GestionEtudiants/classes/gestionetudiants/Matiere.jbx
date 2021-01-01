@@ -1,0 +1,11 @@
+[PropertyInfo]
+coef,int,false,false, , ,false,<default>
+ds,float,false,false, , ,false,<default>
+ex,float,false,false, , ,false,<default>
+nom,String,false,false, , ,false,<default>
+tp,float,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
