@@ -142,7 +142,7 @@ public class MenuPrincipale extends JPanel implements ActionListener{
     matiere.addActionListener(this);//ecouteur
     Img_pn.setBackground(Color.darkGray);
     Img_pn.setBounds(new Rectangle(448, 5, 185, 275));
-    Insat_lb.setText("INSAT Tous Droits Réservés © 2006-2007");
+    Insat_lb.setText("");
     Insat_lb.setBounds(new Rectangle(2, 328, 249, 25));
     nouveau.setIcon(new ImageIcon("images\\nouveau.jpg"));
     nouveau.setText("Nouveau");
